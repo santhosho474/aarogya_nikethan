@@ -1,0 +1,41 @@
+{
+  "Hospital": [
+    {
+      "hospitalname": "apollo hospital",
+      "password": "apollohospital123",
+      "address": {
+        "street": "rajan street",
+        "area": "sriram nagar",
+        "city": "Hyderabad",
+        "distrit": "Hyderabad",
+        "state": "Andhra Pradesh"
+      },
+      "faclites": {
+        "beds": 140,
+        "ventilation": 130,
+        "criticalCareUnit": 45,
+        "isolationWard": 40
+      },
+      "id": 1
+    },
+    {
+      "hospitalname": "Rajivi Gandhi Hospital",
+      "password": "rajivi123",
+      "address": {
+        "street": "valluyya street ",
+        "area": "samapath nagar",
+        "city": "Hyderabad",
+        "distrit": "Hyderabad",
+        "state": "Telangana"
+      },
+      "faclites": {
+        "beds": 140,
+        "ventilation": 130,
+        "criticalCareUnit": 45,
+        "isolationWard": 40
+      },
+      "id": 2
+    }
+  ],
+  "user": []
+}
